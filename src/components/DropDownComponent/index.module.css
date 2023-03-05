@@ -1,0 +1,18 @@
+.list{
+    padding: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+.list:hover{
+    padding: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: aliceblue;
+    cursor: pointer;
+}
+.listItem{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
